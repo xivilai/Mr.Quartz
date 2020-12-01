@@ -1,0 +1,74 @@
+/* ================ 
+      Typography 
+    =============== */
+
+.site-title h1 {
+    font-size: 2.25rem;
+}
+
+.site-subtitle {
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+.section-title {
+    font-size: 1.875rem;
+}
+
+.section-text-mid {
+    font-size: 1.125rem;
+}
+
+/* Header */
+header {
+    height: 700px;
+    background-position: center -350px;
+    background-size: 1920px 1260px;
+}
+
+.header__top {
+    justify-content: space-evenly;
+}
+
+.logo-image {
+    width: 135px;
+    height: 23px;
+}
+
+.search-form {
+    display: none;
+}
+
+.nav-primary ul,
+.header__top ul {
+    display: flex;
+}
+
+.nav-menu-toggle {
+    display: none;
+}
+
+.site-title {
+    margin-top: 115px;
+}
+
+.slide-buttons-header {
+    display: inline-block;
+}
+
+@media screen and (min-width: 1350px) {
+    .search-form {
+        display: initial;
+    }
+
+    .header__top {
+        justify-content: space-between;
+    }
+
+    .site-title {
+        margin-top: 270px;
+    }
+}
