@@ -1,4 +1,7 @@
 # Mr.Quartz
-Ecommerce quartz selling company website
+## Ecommerce quartz selling company website
 
-This is a landing page for russian ecommerce quartz selling company. It's responsive.
+Responsive landing page a ecommerce quartz selling company.
+
+[See this website](https://xivilai.github.io/Mr.Quartz/)
+
